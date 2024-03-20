@@ -8,7 +8,7 @@
 
 > 说明：内推成功，我也会有奖励。
 
-# 1. 语言大模型算法工程师
+# 1. 语言大模型算法工程师 (北京)
 
 <details>
   <summary>语言大模型算法工程师</summary>
@@ -35,7 +35,7 @@
 
 </details>
 
-# 2. Linux C/C++开发工程师
+# 2. Linux C/C++开发工程师 (武汉)
 
 
 <details>
@@ -61,5 +61,31 @@
 |投递链接|二维码|
 |---|---|
 |[点此](https://xiaomi.jobs.f.mioffice.cn/referral/m/position/detail/?token=MTsxNzEwOTA5MTc5NjQyOzcwMTE2MDMyMjQyNjg3NjczNDA7NzMxMjM4MDI4Mzg4OTUwMDI2OQ)|![](./pic/job-2.png)|
+
+</details>
+
+# 3. AI产品经理 (武汉)
+
+<details>
+  <summary>AI产品经理</summary>
+
+## 职位描述
+
+  1、负责AI+新零售产品的规划，包括：销量预测、智能分货、智能选品、智能选址等产品设计，并确保产品落地，支持公司业务目标的达成；
+  2、独立完成产品调研、设计，协调业务部门，完成项目的落地，并通过效果分析，推动产品的优化；
+  3、与技术团队密切配合，推进产品开发迭代，设计算法模型优化的配合策略，实现产品目标；
+  4、结合业务场景的数据分析，为业务提供可行性建议，指导业务动作。
+
+## 职位要求
+
+  1、本科及以上学历，计算机、统计学、数学、经济学、传播学等相关专业，了解算法特性，理解零售行业问题；
+  2、3年以上大数据、算法产品相关工作经历，有电商、零售产品经验优先；
+  3、良好的逻辑思维、业务理解能力和快速学习能力，能够独立负责完整的项目；
+  4、较强的跨部门沟通及协调能力，系统化的产品思维，较强的提炼和写作能力；
+  5、具备主人翁意识，对待工作有激情，工作踏实认真，抗压能力强。
+
+|投递链接|二维码|
+|---|---|
+|[点此](https://xiaomi.jobs.f.mioffice.cn/referral/m/position/detail/?token=MTsxNzEwOTA5NDE2MTc4OzcwMTE2MDMyMjQyNjg3NjczNDA7NzMzNzk4ODY1ODU3NjA0ODIzNg)|![](./pic/job-3.png)|
 
 </details>
