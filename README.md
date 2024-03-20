@@ -1,8 +1,10 @@
 # 小米内推
 
-本页面列出了一些小米集团技术委的职位。大家可以自行扫码投递，或者把简历
-发给我（请自行查找我的邮箱），我来投递。 两种方式，我都可以帮忙查询进度。
+本页面列出了一些小米集团技术委的职位。
+通过下面的方式投递，算内推，我可以帮忙查询投递进度。
 
+  - 1. 自行投递。请填写内推码 `68SJHQS`
+  - 2.  把简历发给我（请自行查找我的邮箱），我来投递。
 
 > 说明：内推成功，我也会有奖励。
 
@@ -10,6 +12,7 @@
 
 <details>
   <summary>语言大模型算法工程师</summary>
+
 ## 职位描述
 
 工作内容：从事语言大模型技术的研发和应用，包括但不限于：
@@ -26,7 +29,8 @@
   3. 熟练掌握主流深度学习框架pytorch/tensorflow，大模型训练框架Megatron-LM/Deepspeed等多机多卡方案，有百亿/千亿NLP大模型训练调优经验优先；
   4. 有良好的代码开发能力，有开源项目开发经验优先。
 
-|链接|二维码|
+|投递链接|二维码|
 |---|---|
 |[点此](https://xiaomi.jobs.f.mioffice.cn/referral/position/detail/?token=MTsxNzEwOTA4NzEwMTA5OzcwMTE2MDMyMjQyNjg3NjczNDA7NzI2ODUzODQ3MzI4NzA3MzkwMA)|![](./pic/job-1.png)|
+
 </details>
