@@ -34,3 +34,32 @@
 |[点此](https://xiaomi.jobs.f.mioffice.cn/referral/position/detail/?token=MTsxNzEwOTA4NzEwMTA5OzcwMTE2MDMyMjQyNjg3NjczNDA7NzI2ODUzODQ3MzI4NzA3MzkwMA)|![](./pic/job-1.png)|
 
 </details>
+
+# 2. Linux C/C++开发工程师
+
+
+<details>
+  <summary>Linux C/C++开发工程师</summary>
+
+## 职位描述
+
+  1. 负责多模态大模型跨平台的部署和优化，支持模型在相机相册和AIOT设备中的优化和集成落地。
+  2. 负责智能车和机器人系统开发，包括视觉导航、系统控制、消息中间件
+
+## 职位要求
+
+  1. 本科及以上学历，计算机软件、电子信息、通信等相关专业；
+  2. 熟练掌握C/C++，具备扎实的数据结构理论基础，有一定的算法分析和设计能力，有良好的编程习惯；
+  3. 掌握Linux环境，熟悉操作系统，了解进程线程及内存管理等，了解C++软件开发流程，熟悉shell、python等脚本编程；
+  4. 扎实的计算机基础，具备优秀的学习能力和逻辑思维能力，善于分析问题和解决问题；有良好的沟通和团队协作能力；
+  5. 有以下相关经验优先：
+    1) 熟悉C++11及以上特性；
+    2) 熟悉一项或多项优化技术，如ARM neon、SSE/AVX、OpenCL或CUDA、HVX等；
+    3) 有图像处理，AI模型部署相关经验。
+    4) 有Android相关开发经验
+
+|投递链接|二维码|
+|---|---|
+|[点此](https://xiaomi.jobs.f.mioffice.cn/referral/m/position/detail/?token=MTsxNzEwOTA5MTc5NjQyOzcwMTE2MDMyMjQyNjg3NjczNDA7NzMxMjM4MDI4Mzg4OTUwMDI2OQ)|![](./pic/job-2.png)|
+
+</details>
